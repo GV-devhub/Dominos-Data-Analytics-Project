@@ -1,5 +1,3 @@
-# dominos-data-analytics-project
-End-to-end Domino’s pizza sales analytics using SQL, Excel, RBAC, Agile, and BA skills
 # Domino's Pizza Sales Analytics Portfolio Project
 
 This project is an end-to-end **Domino's-style pizza sales analytics** case study designed to showcase my skills in:
@@ -44,12 +42,12 @@ Key tables (conceptual):
 All SQL scripts are in the `sql/` folder:
 
 - `01_create_tables.sql` – creates the core tables.
-- `03_cleaning_and_preparation.sql` – basic data cleaning and standardization.
-- `04_exploratory_analysis.sql` – exploratory analysis queries:
+- `02_cleaning_and_preparation.sql` – basic data cleaning and standardization.
+- `03_exploratory_analysis.sql` – exploratory analysis queries:
   - Sales by month
   - Top pizzas by revenue
   - Orders by hour of day
-- `05_kpi_views.sql` – views to support reporting (e.g., `vw_daily_store_sales`).
+- `04_kpi_views.sql` – views to support reporting (e.g., `vw_daily_store_sales`).
 
 These queries answer key business questions defined in `docs/business_questions.md`.
 
@@ -109,9 +107,5 @@ Together, these show how business needs were translated into technical work.
 
 ---
 
-## 8. Future improvements
-
-- Add Python notebooks for automated data loading and cleaning.
-- Implement real row-level security in a cloud database.
-- Extend dashboard to include customer segmentation and promotion analysis.
+Extend dashboard to include customer segmentation and promotion analysis.
 
