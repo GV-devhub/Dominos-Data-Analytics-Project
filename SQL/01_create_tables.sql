@@ -1,6 +1,6 @@
 -- Create table
 CREATE TABLE pizza_orders (
-    pizza_id        NUMBER,
+    pizza_id        NUMBER PRIMARY KEY,
     order_id        NUMBER,
     pizza_name_id  VARCHAR2(100),
     quantity        NUMBER,
