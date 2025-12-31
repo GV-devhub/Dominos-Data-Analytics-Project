@@ -1,0 +1,14 @@
+data/raw/
+
+data/processed/
+
+sql/
+
+excel/
+
+
+docs/
+
+rbac/
+
+agile/
