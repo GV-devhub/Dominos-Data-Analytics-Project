@@ -12,7 +12,7 @@ This project is an end-to-end **Domino's-style pizza sales analytics** case stud
 
 ## 1. Project scenario
 
-You are a data analyst supporting a Domino's-style pizza chain. The business wants to understand:
+Role as a data analyst supporting a Domino's-style pizza chain. The business wants to understand:
 
 - How are sales trending over time and across stores?
 - Which pizzas drive the most revenue?
@@ -106,6 +106,3 @@ Together, these show how business needs were translated into technical work.
 5. Check `rbac/rbac_model.md` and `agile/user_stories.md` to see security and ways-of-working design.
 
 ---
-
-Extend dashboard to include customer segmentation and promotion analysis.
-
