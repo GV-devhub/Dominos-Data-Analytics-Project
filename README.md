@@ -1,3 +1,26 @@
+<p align="center">
+
+  <!-- Kaggle Dataset -->
+  <img src="https://img.shields.io/badge/Kaggle-Pizza%20Sales%20Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-Data%20Modeling%20%7C%20Analytics-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Excel Dashboards -->
+  <img src="https://img.shields.io/badge/Excel-Interactive%20Dashboards-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+  <!-- Cybersecurity RBAC -->
+  <img src="https://img.shields.io/badge/Cybersecurity-RBAC%20%7C%20Access%20Control-FF5733?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+  <!-- Agile -->
+  <img src="https://img.shields.io/badge/Agile-User%20Stories%20%7C%20Backlog%20%7C%20Sprints-0A66C2?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+
+  <!-- Business Analysis -->
+  <img src="https://img.shields.io/badge/Business%20Analysis-Requirements%20%7C%20KPIs-blueviolet?style=for-the-badge&logo=google-analytics&logoColor=white" />
+
+</p>
+
+
 # Domino's Pizza Sales Analytics Portfolio Project
 
 This project is an end-to-end **Domino's-style pizza sales analytics** case study designed to showcase my skills in:
